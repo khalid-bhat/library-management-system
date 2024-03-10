@@ -117,4 +117,4 @@ With the above notes in mind, Windows setup is not too tricky:
  + The most important function of any library is to issue and return books. This system includes a panel to view all outstanding logs and a super simple panel to issue and return books for all librarians.
 
 
-![](meta/screencapture-library-local-1450375427449.png)
+
